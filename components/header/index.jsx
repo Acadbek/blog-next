@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <div className="flex justify-between items-end">
       <div>
-        <Link href={"/"}> Zemeister&apos;s notes</Link>
+        <Link href={"/"}> Nosirjonov&apos;s notes</Link>
       </div>
       <div>
         {pages.map((page) => (
